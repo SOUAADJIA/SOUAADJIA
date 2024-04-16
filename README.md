@@ -1,4 +1,3 @@
-- 👋 Hi, I’m SOUAAD OULED-JIA!
 - 👀 I’m interested in integrating programming into my skill set as a network engineer to automate tasks, optimize network performance, and enhance efficiency.
 - 🌱 I’m currently learning Python scripting for network automation and various programming languages, software development methodologies, and honing my problem-solving skills at ALX Africa.
 - 💞️ I’m looking to collaborate on projects that bridge the gap between networking and software development, leveraging programming to streamline network operations.
